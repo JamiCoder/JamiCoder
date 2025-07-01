@@ -1,36 +1,51 @@
-## Hi there 👋
+## Hey there 👋
 
-I'm **Jamike Michel**, a **Full-Stack Software Engineer** with a strong focus on **backend development**. I enjoy building scalable, secure, and data-driven systems—and delivering seamless user experiences from backend to frontend.
-
-### 👨‍💻 What I Work With
-
-#### 💻 Backend
-- **.NET**, **FastAPI**, **Django**, **Django REST Framework**
-- **Python**, **C#**, **Go**
-- RESTful APIs, authentication (SAML/SSO, RBAC), and system design
-
-#### 🗄️ Databases
-- **PostgreSQL**, **SQL Server**, **MySQL**
-- ETL workflows, stored procedures, performance tuning
-
-#### 🖥️ Frontend
-- **React**, **Next.js**, **Flutter**
-- Component-based UI, responsive design, API integration
-
-#### ☁️ DevOps & Cloud
-- **AWS**, **Azure**
-- CI/CD pipelines, containerization, Infrastructure as Code (IaC)
-
-### 🔍 Currently Exploring
-- Microservices and distributed systems
-- Kafka and real-time data processing
-- AI/ML integration into applications
-
-### 📫 Let's Connect
-- 🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
-- 💼 [Portfolio](https://YOUR-PORTFOLIO-LINK.com)
-- 📬 Reach me at: your.email@example.com
+I'm **Jamike Michel** — a full-stack engineer who loves building things that actually work.  
+I specialize in **backend development**, but I dive into the frontend and DevOps side too 🧠💻
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+### 🛠️ Tech I Use
+
+#### 🔙 Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="30"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="30"/>
+
+#### 🖥️ Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="30" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30"/>
+
+#### 🗃️ Databases
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30"/>
+
+#### ☁️ Cloud & DevOps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+
+---
+
+### 📈 Currently Exploring
+- Microservices 🧱  
+- Kafka & real-time data 🔄  
+- ML/AI + backend 🔬🤖  
+
+---
+
+### 📫 Let's Connect
+
+- [LinkedIn](https://linkedin.com/in/YOUR-LINK)  
+- [Portfolio](https://your-portfolio-link.com)  
+- Email: your.email@example.com
+
+---
+
+_“Move fast and make things work (then refactor).”_ 💡
