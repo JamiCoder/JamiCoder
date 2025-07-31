@@ -44,7 +44,7 @@ I love building scalable, production-ready systems that move data and drive valu
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jammich/)  
-📬 your.email@example.com
+📬 jamikeohia@gmail.com
 
 ---
 
